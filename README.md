@@ -5,9 +5,9 @@
 This is a graphical Sudoku puzzle generator and solver built using Python's `tkinter` library. It provides a clean, interactive interface where users can solve generated puzzles or watch the step-by-step solution in action. The program features random puzzle generation, puzzle validation, and an animated solving process for visualizing how the Sudoku is solved.
 
 
-<div align="center">
-  <video src="Demo.mp4" width="400" />
-</div>
+
+https://github.com/user-attachments/assets/e3cd35d4-ce78-4578-90ee-553c04d58bdd
+
 
 
 ## Features
