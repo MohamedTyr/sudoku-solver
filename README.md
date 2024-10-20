@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/e3cd35d4-ce78-4578-90ee-553c04d58bdd
 1. Clone or download the repository.
 2. Run the script using Python:
    ```bash
-   python modern_sudoku_solver.py
+   python modern-sudoku-solver.py
    ```
 3. The GUI window will open, displaying the Sudoku board.
 
